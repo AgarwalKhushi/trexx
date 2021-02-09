@@ -1,1 +1,2 @@
 # trexx
+Prerequisite: JavaScript
